@@ -1,10 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Pedro 👋
+
+#### ♥️  I'm passionate about:
+
+- React / React Native
+- Laravel
+- NodeJS / AdonisJS / NestJS
+- Expo
+- Flutter
+
+#### :computer: Programming languages:
+
+- Typescript
+- Javascript
+- Dart
+- PHP
+- SQL
+
+#### :octocat: My GitHub stats
+
+![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=phvillegas&count_private=true&show_icons=true) 
 
 <!--
-**phvillegas/phvillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
