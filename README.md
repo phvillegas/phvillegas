@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro 👋
 
-#### ♥️  I'm passionate about:
+#### ♥️ I'm passionate about:
 
 - React / React Native
 - Laravel
@@ -8,7 +8,7 @@
 - Expo
 - Flutter
 
-#### :computer: Programming languages:
+#### 💻 Programming languages:
 
 - Typescript
 - Javascript
