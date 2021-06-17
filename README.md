@@ -2,10 +2,9 @@
 
 #### I'm passionate about: ♥️
 
-- React / React Native
+- React / React Native / Expo
 - Laravel
 - NodeJS / AdonisJS / NestJS
-- Expo
 - Flutter
 
 #### Programming languages: 💻
