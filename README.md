@@ -5,13 +5,12 @@
 - React / React Native / Expo
 - Laravel
 - NodeJS / AdonisJS / NestJS
-- Flutter
 
 #### Programming languages: 💻
 
 - Typescript
 - Javascript
-- Dart
+- Go
 - PHP
 - SQL
 
