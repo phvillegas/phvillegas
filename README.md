@@ -1,10 +1,10 @@
 ### Hi there, I'm Pedro 👋
 
-#### I'm passionate about: ♥️
+#### I'm passionate ♥️ about:
 
-- React / React Native / Expo
-- Laravel
+- React / NextJS / React Native / Expo
 - NodeJS / AdonisJS / NestJS
+- Laravel
 
 #### Programming languages: 💻
 
