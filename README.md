@@ -8,8 +8,8 @@
 
 #### Programming languages: 💻
 
-- Typescript
 - Javascript
+- Typescript
 - Go
 - PHP
 - SQL
