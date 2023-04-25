@@ -4,6 +4,7 @@
 
 - React / NextJS / React Native / Expo
 - NodeJS / AdonisJS / NestJS
+- Flutter
 - Laravel
 
 #### Programming languages: 💻
@@ -11,6 +12,7 @@
 - Javascript
 - Typescript
 - Go
+- Dart
 - PHP
 - SQL
 
